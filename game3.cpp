@@ -7,7 +7,7 @@ int main(int argc, char const *argv[])
 {
     srand(time((unsigned)(0)));
 
-    Game game("Game3 | Swordloard of Space");
+    Game game("Space Craft Shooting");
 
     game.run();
 
